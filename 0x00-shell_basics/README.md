@@ -29,7 +29,7 @@ This script lists all contents for the working directory in the:
 * with user and group IDs as numerical values
 * and hidden files
 
-## 6-my_first_directory
+## 6-myfirstdirectory
 
 This script creates a directory named my_first_directory in the /tmp/ directory
 
