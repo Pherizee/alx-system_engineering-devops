@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n | grep [seq 1 2 9][[:space:]] | tr -s " " | cut -f 2
